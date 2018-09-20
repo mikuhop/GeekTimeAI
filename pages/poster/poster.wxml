@@ -1,0 +1,9 @@
+<view class="posterpage">
+    <view class="canvas1">
+        <canvas canvasId="shakepage1" class="shakeCanvas1" height="1334" width="750"></canvas>
+    </view>
+    <view class="canvas2">
+        <canvas canvasId="shakepage2" class="shakeCanvas2"></canvas>
+    </view>
+    <view bindtap="onUserSaveImageRight" class="saveBtn"></view>
+</view>

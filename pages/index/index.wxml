@@ -1,0 +1,5 @@
+<view class="indexpage">
+    <image class="title" mode="widthFix" src="../../images/alogototle.png"></image>
+    <view class="shake" mode="widthFix" style="{{showFlag?'animation: abb 1s;':''}}"></view>
+    <image class="bottom" mode="widthFix" src="../../images/abottomtree.png"></image>
+</view>
